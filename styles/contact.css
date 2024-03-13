@@ -1,0 +1,17 @@
+.contact-container {
+    background-color: rgb(10 44 36 / 100%);
+}
+
+.contact-container input:focus,
+.contact-container textarea:focus {
+    outline: none;
+}
+
+.contact-container input::placeholder,
+.contact-container textarea::placeholder {
+    color: #4B9283;
+}
+
+.info-container svg {
+    
+}
